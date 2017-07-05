@@ -1,0 +1,9 @@
+D:\Study\WCF\MathWCFService\MathServiceTestApp\bin\Debug\MathServiceTestApp.exe.config
+D:\Study\WCF\MathWCFService\MathServiceTestApp\bin\Debug\MathServiceTestApp.exe
+D:\Study\WCF\MathWCFService\MathServiceTestApp\bin\Debug\MathServiceTestApp.pdb
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.csprojResolveAssemblyReference.cache
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.Form1.resources
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.Properties.Resources.resources
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.csproj.GenerateResource.Cache
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.exe
+D:\Study\WCF\MathWCFService\MathServiceTestApp\obj\Debug\MathServiceTestApp.pdb

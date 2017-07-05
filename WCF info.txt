@@ -1,0 +1,6 @@
+svcutil /n:*,AccountService /ct:System.Collections.Generic.List`1 /out:AccountService /d:d:/Proxy http://apis.worldventures.biz/Vexiere/AccountService/v1.0/AccountService.svc /s
+
+AccountService-Proxyname
+System.Collections.Generic.List--make proxy in same format list to list
+AccountService - name of output file
+Proxy command

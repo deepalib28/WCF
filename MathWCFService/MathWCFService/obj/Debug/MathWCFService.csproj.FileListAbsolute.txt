@@ -1,0 +1,6 @@
+D:\Study\WCF\MathWCFService\MathWCFService\bin\MathWCFService.dll
+D:\Study\WCF\MathWCFService\MathWCFService\bin\MathWCFService.pdb
+D:\Study\WCF\MathWCFService\MathWCFService\obj\Debug\MathWCFService.csprojResolveAssemblyReference.cache
+D:\Study\WCF\MathWCFService\MathWCFService\obj\Debug\MathWCFService.dll
+D:\Study\WCF\MathWCFService\MathWCFService\obj\Debug\MathWCFService.pdb
+D:\Study\WCF\MathWCFService\MathWCFService\bin\MathWCFService.dll.config

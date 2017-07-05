@@ -1,0 +1,1 @@
+﻿svcutil http://localhost:52434/MathService.svc /out:MathService.cs /d:D:/Study/WCF/MathWCFService/UsingProxy/Proxy

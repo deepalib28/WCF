@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="0C1EC3A1-D1DD-46CD-99BF-AEB5DDB5E356" ModuleId="MathWCFService" />
+  <Module PersistentId="39E93CD7-DD39-449E-9C69-A4C1B845726E" ModuleId="MathServiceTestApp" />
+  <Module PersistentId="47042F9C-9EE0-4098-BE13-359C013F2AD0" ModuleId="UsingProxy" />
+  <Module PersistentId="44650A1B-5BE3-4B40-B81B-569D2BD22594" ModuleId="WCFService1" />
+  <Module PersistentId="B1BA5148-4DFC-4AC1-8D29-BA203712C329" ModuleId="MathServiceIISHost" />
+</Modules>

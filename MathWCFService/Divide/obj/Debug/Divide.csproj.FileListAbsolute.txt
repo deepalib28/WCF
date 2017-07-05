@@ -1,0 +1,6 @@
+D:\Study\WCF\MathWCFService\Divide\bin\Debug\Divide.exe.config
+D:\Study\WCF\MathWCFService\Divide\bin\Debug\Divide.exe
+D:\Study\WCF\MathWCFService\Divide\bin\Debug\Divide.pdb
+D:\Study\WCF\MathWCFService\Divide\obj\Debug\Divide.csprojResolveAssemblyReference.cache
+D:\Study\WCF\MathWCFService\Divide\obj\Debug\Divide.exe
+D:\Study\WCF\MathWCFService\Divide\obj\Debug\Divide.pdb
